@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "name": "Pikachu",
+        "image": "https://cdn.bulbagarden.net/upload/1/17/025Pikachu-Original.png"     
+    },
+    {
+        "id": 1,
+        "name": "Gyarados",
+        "image": "https://www.monstersandcritics.com/wp-content/uploads/2016/09/gyarados.gif"
+    },
+    {
+        "id": 2,
+        "name": "Lugia",
+        "image": "https://www.monstersandcritics.com/wp-content/uploads/2016/09/lugia.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mew",
+        "image": "https://www.monstersandcritics.com/wp-content/uploads/2016/09/mew.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Mewtwo",
+        "image": "https://vignette.wikia.nocookie.net/sonicpokemon/images/d/d3/Mewtwo.png/revision/latest?cb=20121223053851"
+    },
+    {
+        "id": 5,
+        "name": "Gengar",
+        "image": "https://www.monstersandcritics.com/wp-content/uploads/2016/09/gengar.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Eevee",
+        "image": "https://www.monstersandcritics.com/wp-content/uploads/2016/09/eevee.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Jiggylypuff",
+        "image": "https://seeklogo.com/images/J/jigglypuff-logo-04F3B79EB3-seeklogo.com.png"
+    },
+    {
+        "id": 8,
+        "name": "Squirtle",
+        "image": "https://www.monstersandcritics.com/wp-content/uploads/2016/09/squirtle.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Charizard",
+        "image": "https://www.monstersandcritics.com/wp-content/uploads/2016/09/charizard.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Snorlax",
+        "image":
+    },
+    {
+        "id": 11,
+        "name": "Lapras",
+        "image": "https://pm1.narvii.com/6251/967dbef43648379f486f15650f5322e2a6748c5f_hq.jpg"
+    }
+]
